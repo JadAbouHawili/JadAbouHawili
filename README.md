@@ -1,4 +1,8 @@
-## Hi there 👋
+# Currently Reading
+Theorem Proving in Lean 4
+Functional Programming in Lean 4
+Mathematics in Lean 4
+Logical Verification in Lean 4
 
 <!--
 **JadAbouHawili/JadAbouHawili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
