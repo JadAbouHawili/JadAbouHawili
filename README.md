@@ -1,4 +1,17 @@
-# Currently Reading
+# Formalization Efforts(Lean 4)
+[Lean 4 Game Project](https://github.com/leanprover-community/lean4game/issues?q=is%3Aissue%20is%3Apr%20author%3AJadAbouHawili)
+
+[Knights and Knaves Educational Game](https://github.com/JadAbouHawili/KnightsAndKnaves-Lean4Game)
+
+[Mathlib 4](https://github.com/leanprover-community/mathlib4/issues?q=is%3Aissue%20is%3Apr%20author%3AJadAbouHawili)
+
+[Functional Programming in Lean 4](https://github.com/leanprover/fp-lean/issues?q=is%3Aissue%20is%3Apr%20author%3AJadAbouHawili)
+
+[Raymond Smullyan Logic Puzzles](https://github.com/JadAbouHawili/Raymond-Smullyan-KnightsAndKnaves)
+
+[Set Theory](https://github.com/JadAbouHawili/SetTheory-Lean4)
+
+## Currently Reading
 - Theorem Proving in Lean 4
 - Functional Programming in Lean 4
 - Mathematics in Lean 4
