@@ -11,6 +11,11 @@
 
 [Set Theory](https://github.com/JadAbouHawili/SetTheory-Lean4)
 
+[Lean 4](https://github.com/leanprover/lean4/issues?q=is%3Aissue%20is%3Apr%20author%3AJadAbouHawili)
+
+[Metaprogramming in Lean 4](https://github.com/leanprover-community/lean4-metaprogramming-book/issues?q=is%3Aissue%20is%3Apr%20author%3AJadAbouHawili
+)
+
 ## Currently Reading
 - Theorem Proving in Lean 4
 - Functional Programming in Lean 4
