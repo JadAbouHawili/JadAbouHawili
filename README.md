@@ -13,7 +13,7 @@
 
 [Lean 4](https://github.com/leanprover/lean4) ([prs](https://github.com/leanprover/lean4/pulls?q=is%3Apr+author%3AJadAbouHawili+) )
 
-[Metaprogramming in Lean 4]([issues](https://github.com/leanprover-community/lean4-metaprogramming-book/issues?q=is%3Aissue%20author%3AJadAbouHawili) , [prs](https://github.com/leanprover-community/lean4-metaprogramming-book/pulls?q=is%3Apr+author%3AJadAbouHawili+))
+[Metaprogramming in Lean 4](https://github.com/leanprover-community/lean4-metaprogramming-book)([issues](https://github.com/leanprover-community/lean4-metaprogramming-book/issues?q=is%3Aissue%20author%3AJadAbouHawili) , [prs](https://github.com/leanprover-community/lean4-metaprogramming-book/pulls?q=is%3Apr+author%3AJadAbouHawili+))
 
 ## Currently Reading
 - Theorem Proving in Lean 4
