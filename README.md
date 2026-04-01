@@ -21,6 +21,9 @@
 - Mathematics in Lean 4
 - Logical Verification in Lean 4
 
+## A collection of interesting Zulip Lean4 Community Threads
+You can find here: [Interesting Lean 4](https://github.com/JadAbouHawili/Interesting-Lean4/)
+
 <!--
 **JadAbouHawili/JadAbouHawili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
